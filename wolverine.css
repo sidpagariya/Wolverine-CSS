@@ -187,7 +187,7 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
     outline: none !important;
 }
 
-body {
+html, body, span {
     /*background: #002a4a;*/
 	font-family: 'Roboto', sans-serif !important;
 }
