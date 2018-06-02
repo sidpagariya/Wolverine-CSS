@@ -1,190 +1,192 @@
 #ACE_DERIVED_SSS_SCL_ > tbody > tr:first-child > td:first-child {
-    display: none;
+    display: none !important;
 }
 
 #ACE_\$ICField279 > tbody > tr:nth-child(2) > td:first-child, #ACE_\$ICField279 > tbody > tr:nth-child(4) > td:first-child, #ACE_\$ICField279 > tbody > tr:nth-child(6) > td:first-child {
-    display: none;
+    display: none !important;
 }
 
 #ACE_\$ICField279 > tbody > tr:nth-child(2) > td:nth-child(2), #ACE_\$ICField279 > tbody > tr:nth-child(4) > td:nth-child(2), #ACE_\$ICField279 > tbody > tr:nth-child(6) > td:nth-child(2) {
-    width: 100%;
+    width: 100% !important;
 }
 
 #classicbackbuttonlayout > #classicbackbuttoncontainer > .ps-button-wrapper > .ps-button {
-    background-image: linear-gradient(#ffcb06,#ffcb06);
-    border: none;
-    border-radius: 20px;
-    box-shadow: inset 0 0;
-    margin-top: .25em;
-    padding: 0.5em 1em 0.5em 0.5em;
-    padding-left: 0.5em;
-    padding-right: 1em;
-    vertical-align: bottom;
+    background-image: linear-gradient(#ffcb06,#ffcb06) !important;
+    border: none !important;
+    border-radius: 20px !important;
+    box-shadow: inset 0 0 !important;
+    margin-top: .25em !important;
+    padding: 0.5em 1em 0.5em 0.5em !important;
+    padding-left: 0.5em !important;
+    padding-right: 1em !important;
+    vertical-align: bottom !important;
 }
 
 #classicbackbuttonlayout > #classicbackbuttoncontainer > .ps-button-wrapper > .ps-button > .ps-text {
-    color: black;
-    margin-left: 1.5em;
+    color: black !important;
+    margin-left: 1.5em !important;
 }
 
 #classicbackbuttonlayout > #classicbackbuttoncontainer > .ps-button-wrapper > .ps-button:before {
-    content: url("https://sids-files.github.io/PT_NUI_BACK_PRIM_IMG_1.svg");
+    content: url("https://sids-files.github.io/PT_NUI_BACK_PRIM_IMG_1.svg") !important;
 }
 
 #ptbr_header_container #pthdr2container {
-    background-image: linear-gradient(rgb(0, 42, 74),rgb(0, 42, 74));
+    background-image: linear-gradient(rgb(0, 42, 74),rgb(0, 42, 74)) !important;
 }
 
 #pthdr2navbar {
-    background-image: none;
+    background-image: none !important;
 }
 
 #pthdr2navbarlinks a.headerbutton:hover, a.headerbutton:active {
-    background-color: #004a84;
-    box-shadow: none;
+    background-color: #004a84 !important;
+    box-shadow: none !important;
 }
 
 #win0divDERIVED_SSS_SCL_SSS_PERSONAL_INFO > table {
-    width: 100%;
+    width: 100% !important;
 }
 
 #win0divDERIVED_SSS_SCL_SS_ACAD_INFO_LINK > table {
-    width: 100%;
+    width: 100% !important;
 }
 
 #win0divDERIVED_SSS_SCL_SS_MNG_FIN_LINK > table {
-    width: 100%;
+    width: 100% !important;
 }
 
 #win0divPTNUI_LAND_WRK_GROUPBOX14grp, .ps_mod_wrapc, .ps_modal_container .ps_popup-menu .ps_menutype-grid .lpselbtn, [id*='ptModTable_'] {
-    height: auto;
+    height: auto !important;
 }
 
 .PABACKGROUNDINVISIBLE {
-    width: 100%;
+    width: 100% !important;
 }
 
 .PABACKGROUNDINVISIBLE > tbody > tr > td:first-child, #ACE_DERIVED_SSS_SCL_TITLE1 > tbody > tr:nth-child(2) > td:nth-child(2) {
 }
 
 .PABACKGROUNDINVISIBLEWBO, .PABACKGROUNDINVISIBLEWBO > tbody > tr > td, .PABACKGROUNDINVISIBLEWBO > tbody > tr > td > table > tbody {
-    width: 100%;
+    width: 100% !important;
 }
 
 .PSGROUPBOXLABEL {
-    background-color: #ffcb06;
-    border-radius: 20px;
-    color: #002a4a;
-    padding-top: 5px;
+    background-color: #ffcb06 !important;
+    border-radius: 20px !important;
+    color: #002a4a !important;
+    padding-top: 5px !important;
 }
 
 .PSGROUPBOXWBO {
-    border: none;
+    border: none !important;
 }
 
 .PSHYPERLINKNOUL:hover, .PSSRCHRESULTSEVENROW a:hover, .PSSRCHRESULTSODDROW a:hover, .PAGRIDHEADER a:hover, .PSLEVEL1GRIDCOLUMNHDR a:hover, .PSLEVEL2GRIDCOLUMNHDR a:hover, .PSLEVEL3GRIDCOLUMNHDR a:hover, .PSLEVEL1GRIDCOLUMNHDRTXT a:hover, .PSLEVEL2GRIDCOLUMNHDRTXT a:hover, .PSLEVEL3GRIDCOLUMNHDRTXT a:hover {
-    color: #ffcb06;
+    color: #ffcb06 !important;
 }
 
 .PSLEVEL1GRIDCOLUMNHDR:link, .PSLEVEL1GRIDCOLUMNHDR:visited, .PSLEVEL3GRIDCOLUMNHDR:visited, .PSLEVEL1GRIDCOLUMNHDR:link, .PSLEVEL1GRIDCOLUMNHDR:visited, .PSLEVEL3GRIDCOLUMNHDR:link, .PSLEVEL3GRIDCOLUMNHDR:visited, .PSLEVEL2GRIDCOLUMNHDR:link, .PSLEVEL2GRIDCOLUMNHDR:visited {
-    color: #002a4a;
+    color: #002a4a !important;
 }
 
 .PSLEVEL1GRIDLABEL, .PSLEVEL2GRIDLABEL, .PSLEVEL3GRIDLABEL, .PSLEVEL1SCROLLAREAHEADER, .PSLEVEL2SCROLLAREAHEADER, .PSLEVEL3SCROLLAREAHEADER {
-    background-color: #fff;
-    color: #002a4a;
+    background-color: #fff !important;
+    color: #002a4a !important;
 }
 
 .PSPAGECONTAINER > tbody > tr:nth-child(2) > td:nth-child(2) {
-    width: 100%;
+    width: 100% !important;
 }
 
 .PSPUSHBUTTON span, .PSPUSHBUTTONTB span, .PSPUSHBUTTON span:hover, .PSPUSHBUTTONTBABORT span, .PSPUSHBUTTONTBADD span, .PSPUSHBUTTONTBADDMODE span, .PSPUSHBUTTONTBAPPLY span, .PSPUSHBUTTONTBCANCEL span, .PSPUSHBUTTONTBCLEAR span, .PSPUSHBUTTONTBCONTINUE span, .PSPUSHBUTTONTBCORRECTMODE span, .PSPUSHBUTTONTBDELETE span, .PSPUSHBUTTONTBIGNORE span, .PSPUSHBUTTONTBLOOKUP span, .PSPUSHBUTTONTBNEXTINLIST span, .PSPUSHBUTTONTBNEXTINWORKLIST span, .PSPUSHBUTTONTBNEXTTAB span, .PSPUSHBUTTONTBNO span, .PSPUSHBUTTONTBOK span, .PSPUSHBUTTONTBPOPUP span, .PSPUSHBUTTONTBPREVIEW span, .PSPUSHBUTTONTBPREVINLIST span, .PSPUSHBUTTONTBPREVINWORKLIST span, .PSPUSHBUTTONTBPREVTAB span, .PSPUSHBUTTONTBREFRESH span, .PSPUSHBUTTONTBREFRESH2 span, .PSPUSHBUTTONTBRETRY span, .PSPUSHBUTTONTBRETURN span, .PSPUSHBUTTONTBSAVE span, .PSPUSHBUTTONTBSEARCH span, .PSPUSHBUTTONTBSENDNOTIFY span, .PSPUSHBUTTONTBSPELLCHECK span, .PSPUSHBUTTONTBUPDATEALLMODE span, .PSPUSHBUTTONTBUPDATEMODE span, .PSPUSHBUTTONTBVIEWWORKLIST span, .PSPUSHBUTTONTBYES span, .PSPUSHBUTTONRETURN span, .PSPUSHBUTTONDISABLED span {
-    border-top: 1px solid rgba(254, 251, 244, 0) ;
+    border-top: 1px solid rgba(254, 251, 244, 0) !important;
 }
 
 .PSPUSHBUTTON#Left, .PSPUSHBUTTON.Left {
-    background: #ffcb06;
-    border: 1px solid #ffcb06 ;
-    border-radius: 20px;
+    background: #ffcb06 !important;
+    border: 1px solid #ffcb06 !important;
+    border-radius: 20px !important;
 }
 
 .PSPUSHBUTTONTB {
-    background: #ffcb06;
-    border: none;
-    border-radius: 20px;
-    padding: 5px 10px 5px 10px;
+    background: #ffcb06 !important;
+    border: none !important;
+    border-radius: 20px !important;
+    padding: 5px 10px 5px 10px !important;
 }
 
 .PTCOLLAPSE_ARROW:before {
-    background-image: url("https://sids-files.github.io/expand-button.svg");
-    background-size: 14px 14px;
-    content: "";
-    display: block;
-    height: 14px;
-    width: 14px;
+    background-image: url("https://sids-files.github.io/expand-button.svg") !important;
+    background-size: 14px 14px !important;
+    content: "" !important;
+    display: block !important;
+    height: 14px !important;
+    width: 14px !important;
 }
 
 .PTEXPAND_ARROW:before {
-    background-image: url("https://sids-files.github.io/keyboard-right-arrow-button.svg");
-    background-size: 14px 14px;
-    content: "";
-    display: block;
-    height: 14px;
-    width: 14px;
+    background-image: url("https://sids-files.github.io/keyboard-right-arrow-button.svg") !important;
+    background-size: 14px 14px !important;
+    content: "" !important;
+    display: block !important;
+    height: 14px !important;
+    width: 14px !important;
 }
 
 .nuitile .ps_groupleth > .ps-label {
-    text-align: center;
+    text-align: center !important;
 }
 
 .ps_header_bar {
-    background-color: #002a4a;
-    background-image: none;
+    background-color: #002a4a !important;
+    background-image: none !important;
 }
 
 .ps_header_bar .ps_actions_cont .ps_system_cont .ps_header-navbar .ps-button, :root.psc_dir-rtl .ps_header_bar .ps_actions_cont .ps_system_cont .ps_header-navbar .ps-button {
-    background-image: none;
-    border: none;
-    box-shadow: none;
+    background-image: none !important;
+    border: none !important;
+    box-shadow: none !important;
 }
 
 .ps_header_bar .ps_box-button:not(.psc_disabled) .ps-button:hover, :root.psc_dir-rtl .ps_header_bar .ps_box-button:not(.psc_disabled) .ps-button:hover {
-    background-color: #004a84;
-    box-shadow: none;
+    background-color: #004a84 !important;
+    box-shadow: none !important;
 }
 
 .ps_menuitem:not(.psc_disabled):hover, .psc_rowact:not(.psc_disabled):hover {
-    background-color: #ffcb06;
+    background-color: #ffcb06 !important;
 }
 
 .ps_modal_content, [id*='ptModTable_'], :root:not(.psc_mode-ag):not(.psc_mode-md) .nui_pagegb:not(.persmode) .nuitile .nuilp {
-    border-radius: 20px;
+    border-radius: 20px !important;
 }
 
 .ps_modalmask {
-    background-color: #000000;
+    background-color: #000000 !important;
 }
 
 .ps_popup-menu li:not(.psc_hidden):first-child {
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
 }
 
 .ps_popup-menu li:not(.psc_hidden):last-child {
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
 }
 
 :root:not(.psc_mode-ag):not(.psc_mode-md) .pt_homepage {
-    background-color: #002a4a;
+    background-color: #002a4a !important;
 }
 
 a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:focus {
-    outline: none;
+    outline: none !important;
 }
 
 body {
     /*background: #002a4a;*/
 }
+#classicbackbuttonlayout > #classicbackbuttoncontainer > .ps-button-wrapper > .ps-button:hover {
 
+}
