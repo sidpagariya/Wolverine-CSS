@@ -214,10 +214,9 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
 	flex-direction: column !important;
 }
 
-.ptprtlcontainer {
-	position: fixed;
-	top: 9px;
-	right: 17%;
+#HELP {
+	position: fixed !important;
+	top: 14px !important;
 	color: yellow !important;
 }
 
