@@ -209,9 +209,9 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
 	height: 100% !important;
 	background-color: rgba(0, 0, 0, 0.5) !important;
 	display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    flex-direction: column !important;
+	align-items: center !important;
+	justify-content: center !important;
+	flex-direction: column !important;
 }
 
 html, body, span {
