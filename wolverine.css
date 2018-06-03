@@ -192,6 +192,10 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
     outline: none !important;
 }
 
+.pt_homepage .lpfooter {
+	background: rgba(0, 42, 74, 0.8) !important;
+}
+
 html, body, span {
 	font-family: 'Roboto', sans-serif !important;
 }
