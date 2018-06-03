@@ -200,6 +200,14 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
 	width: 32px !important;
 }
 
+.psc_processing .psc_hidden {
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
 html, body, span {
 	font-family: 'Roboto', sans-serif !important;
 }
