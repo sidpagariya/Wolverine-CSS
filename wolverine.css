@@ -200,12 +200,12 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
 	width: 32px !important;
 }
 
-#WAIT_win0 .psc_processing .psc_hidden {
-	top: 0px;
-	left: 0px;
-	width: 100%;
-	height: 100%;
-	background-color: rgba(0, 0, 0, 0.5);
+#WAIT_win0 {
+	top: 0px !important;
+	left: 0px !important;
+	width: 100% !important;
+	height: 100% !important;
+	background-color: rgba(0, 0, 0, 0.5) !important;
 }
 
 html, body, span {
