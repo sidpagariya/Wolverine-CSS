@@ -159,6 +159,11 @@
 
 .ps_menuitem:not(.psc_disabled):hover, .psc_rowact:not(.psc_disabled):hover {
     background-color: #ffcb06 !important;
+	color: #ffffff !important;
+}
+
+.ps_menuitem:not(.psc_disabled):hover > a:hover, .psc_rowact:not(.psc_disabled):hover > a:hover {
+	color: #002a4a !important;
 }
 
 .ps_modal_content, [id*='ptModTable_'], :root:not(.psc_mode-ag):not(.psc_mode-md) .nui_pagegb:not(.persmode) .nuitile .nuilp {
