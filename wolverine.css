@@ -162,7 +162,7 @@
 	color: #ffffff !important;
 }
 
-.ps_menuitem:not(.psc_disabled):hover > a:hover, .psc_rowact:not(.psc_disabled):hover > a:hover {
+.ps_menuitem > .ps_box-link > .ps-link-wrapper > .ps-link:hover, .ps_menuitem > .ps_box-link > .ps-link-wrapper > .ps-link:active, .ps_menutype-grid .ps_grid-row > .ps_box-link > .ps-link-wrapper > .ps-link:hover, .ps_menutype-grid .ps_grid-row > .ps_box-link > .ps-link-wrapper > .ps-link:active {
 	color: #002a4a !important;
 }
 
