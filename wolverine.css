@@ -223,3 +223,7 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
 html, body, span {
 	font-family: 'Roboto', sans-serif !important;
 }
+
+.PSPAGECONTAINER, #ACE_width, #ACE_\$ICField274, #win0divDERIVED_SSS_SCL_LS_PORT_HOLDS_LINK > table, #win0divDERIVED_SSS_SCL_SSS_SC_LNK1_NAMEGP > table, #win0divDERIVED_SSS_SCL_SSS_SC_LNK2_NAME > table, #win0divDERIVED_SSS_SCL_SSS_SC_LNK3_NAME > table, #win0divDERIVED_SSS_SCL_M_SR_LNK4_NAME > table, #win0divDERIVED_SSS_SCL_SS_APP_FINAID_LINK > table, #ACE_DERIVED_SSS_SCL_SS_APP_FINAID_LINK, #win0divM_HE_SSS_NPSWRK_DESCR100 > table, #ACE_DERIVED_SSS_SCL_SSS_PERSONAL_INFO, #win0divDERIVED_SSS_SCL_SS_MYPROFILE_LINK > table, #win0divDERIVED_SSS_SCL_SS_ADM_INFO_LINK > table, #ACE_DERIVED_SSS_SCL_SS_ADM_INFO_LINK, #M_RA_APP_PRG_VW\$scroll\$0 {
+	width: 100% !important;
+}
