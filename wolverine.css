@@ -223,3 +223,7 @@ a:focus, img:focus, span:focus, input:focus, select:focus, input[type="button"]:
 html, body, span {
 	font-family: 'Roboto', sans-serif !important;
 }
+
+html {
+	display: none;
+}
