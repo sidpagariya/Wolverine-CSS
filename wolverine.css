@@ -235,3 +235,13 @@ html, body, span {
 #ACE_DERIVED_SSS_SCL_SS_MYPROFILE_LINK > tbody > tr:first-child > td:nth-child(4) {
 	width: 20% !important;
 }
+
+#M_HE_SSS_NPSWRK_DESCR100_2 {
+	position: absolute;
+    font-weight: bold;
+    margin: 0;
+    left: 33%;
+    font-size: 20px;
+    top: -5px;
+    width: auto;
+}
